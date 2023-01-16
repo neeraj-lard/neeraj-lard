@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @neeraj-lard
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning web-desining
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 contact me- mail:neerajlard2000@gmail.com
 
 <!---
 neeraj-lard/neeraj-lard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
